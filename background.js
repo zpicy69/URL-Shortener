@@ -1,5 +1,5 @@
 const BITLY_API_URL = 'https://api-ssl.bitly.com/v4/shorten';
-const BITLY_API_TOKEN = '20cfcef2128eca4ecdfb47333a61113728919e6f'; 
+const BITLY_API_TOKEN = 'YOUR_BITLY_API_TOKEN'; // Replace with your Bitly API token https://bitly.com/
 
 let latestShortenedURL = "";
 
